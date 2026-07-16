@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Rahul",
+        "background": "ECE",
+        "skills": ["Python Basics"],
+        "career_goal": "AI Engineer"
+    },
+    {
+        "id": 2,
+        "name": "Priya",
+        "background": "BCA",
+        "skills": ["HTML", "CSS"],
+        "career_goal": "Full Stack Developer"
+    },
+    {
+        "id": 3,
+        "name": "Kiran",
+        "background": "Mechanical",
+        "skills": ["Java Programming"],
+        "career_goal": "Backend Developer"
+    },
+    {
+        "id": 4,
+        "name": "Sneha",
+        "background": "Commerce",
+        "skills": [],
+        "career_goal": "Data Analyst"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "course_name": "Python Basics",
+        "order": 1,
+        "level": "Beginner",
+        "duration": "4 Weeks",
+        "prerequisites": [],
+        "career_goals": ["AI Engineer", "Backend Developer", "Data Scientist", "Data Analyst"],
+        "description": "Learn Python programming fundamentals.",
+        "recommendation_reason": "Recommended because Python is the foundation for AI, backend development and data science."
+    },
+
+    {
+        "course_name": "Java Programming",
+        "order": 1,
+        "level": "Beginner",
+        "duration": "5 Weeks",
+        "prerequisites": [],
+        "career_goals": ["Backend Developer", "Full Stack Developer"],
+        "description": "Understand Java programming concepts.",
+        "recommendation_reason": "Recommended because Java is widely used for backend and enterprise application development."
+    },
+
+    {
+        "course_name": "HTML",
+        "order": 1,
+        "level": "Beginner",
+        "duration": "2 Weeks",
+        "prerequisites": [],
+        "career_goals": ["Full Stack Developer"],
+        "description": "Learn how to create web pages.",
+        "recommendation_reason": "Recommended because HTML is the first step in learning web development."
+    },
+
+    {
+        "course_name": "CSS",
+        "order": 2,
+        "level": "Beginner",
+        "duration": "2 Weeks",
+        "prerequisites": ["HTML"],
+        "career_goals": ["Full Stack Developer"],
+        "description": "Style web pages using CSS.",
+        "recommendation_reason": "Recommended because CSS helps create responsive and attractive web pages."
+    },
+
+    {
+        "course_name": "JavaScript",
+        "order": 3,
+        "level": "Intermediate",
+        "duration": "4 Weeks",
+        "prerequisites": ["HTML", "CSS"],
+        "career_goals": ["Full Stack Developer"],
+        "description": "Add interactivity to websites.",
+        "recommendation_reason": "Recommended because JavaScript is essential for building dynamic web applications."
+    },
+
+    {
+        "course_name": "SQL",
+        "order": 2,
+        "level": "Beginner",
+        "duration": "3 Weeks",
+        "prerequisites": [],
+        "career_goals": ["Backend Developer", "AI Engineer", "Data Scientist", "Data Analyst", "Full Stack Developer"],
+        "description": "Learn database querying using SQL.",
+        "recommendation_reason": "Recommended because SQL is essential for storing and managing application data."
+    },
+
+    {
+        "course_name": "Data Structures",
+        "order": 3,
+        "level": "Intermediate",
+        "duration": "5 Weeks",
+        "prerequisites": ["Python Basics"],
+        "career_goals": ["AI Engineer", "Backend Developer", "Data Scientist"],
+        "description": "Improve logical thinking and problem-solving.",
+        "recommendation_reason": "Recommended because strong problem-solving skills are required before learning advanced technologies."
+    },
+
+    {
+        "course_name": "Machine Learning",
+        "order": 4,
+        "level": "Advanced",
+        "duration": "6 Weeks",
+        "prerequisites": ["Python Basics", "Data Structures"],
+        "career_goals": ["AI Engineer", "Data Scientist"],
+        "description": "Learn machine learning algorithms and models.",
+        "recommendation_reason": "Recommended because Machine Learning is one of the core skills for AI Engineers and Data Scientists."
+    },
+
+    {
+        "course_name": "Deep Learning",
+        "order": 5,
+        "level": "Advanced",
+        "duration": "6 Weeks",
+        "prerequisites": ["Machine Learning"],
+        "career_goals": ["AI Engineer"],
+        "description": "Build AI models using neural networks.",
+        "recommendation_reason": "Recommended because Deep Learning powers modern AI applications like image recognition and chatbots."
+    },
+
+    {
+        "course_name": "Spring Boot",
+        "order": 4,
+        "level": "Intermediate",
+        "duration": "5 Weeks",
+        "prerequisites": ["Java Programming"],
+        "career_goals": ["Backend Developer"],
+        "description": "Develop backend applications using Spring Boot.",
+        "recommendation_reason": "Recommended because Spring Boot is one of the most popular Java backend frameworks."
+    },
+
+    {
+        "course_name": "React",
+        "order": 4,
+        "level": "Intermediate",
+        "duration": "5 Weeks",
+        "prerequisites": ["HTML", "CSS", "JavaScript"],
+        "career_goals": ["Full Stack Developer"],
+        "description": "Build interactive frontend applications.",
+        "recommendation_reason": "Recommended because React is widely used for building modern web user interfaces."
+    }
+]
